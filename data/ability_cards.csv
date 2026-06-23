@@ -1,0 +1,37 @@
+﻿card_id,card_name
+ANIMAL_SPIRIT_ATTACK_UP,対動物霊攻撃力UP
+TINY_HITBOX,極小当たり判定
+WIDE_ITEM_COLLECT,広範囲アイテム回収
+CHARGE_SPEED_UP,チャージ速度UP
+AURA_RANGE_UP,オーラの範囲UP
+EXTRA_BOMB_TWO,霊撃が二つ増える
+BOMB_DURATION_UP,霊撃の効果時間が長くなる
+BEFRIEND_CALMED_SPIRIT,沈静化した霊と仲良くなる
+BARRIER_BREAK_BULLET_CLEAR,バリア破壊時に敵弾破壊
+ATTACK_WOLF_SPIRIT_UP,攻撃オオカミ霊強化
+ATTACK_OTTER_SPIRIT_UP,攻撃カワウソ霊強化
+ATTACK_EAGLE_SPIRIT_UP,攻撃オオワシ霊強化
+DEFENSE_WOLF_SPIRIT_DOWN,被攻撃オオカミ霊弱体化
+DEFENSE_OTTER_SPIRIT_DOWN,被攻撃カワウソ霊弱体化
+DEFENSE_EAGLE_SPIRIT_DOWN,被攻撃オオワシ霊弱体化
+NEAR_ENEMY_ATTACK_UP,近くの敵への攻撃力アップ
+SLOW_SOME_BULLETS,一部の敵弾が遅くなる
+GET_BOMB_BY_GAUGE,ゲージでボム入手
+EXTRA_HOMING_SHOT,追加ホーミングショット (誘導)
+EXTRA_LASER,追加レーザー (正面)
+EXTRA_SNAKE_SHOT,追加蛇ショット (手前誘導)
+EXTRA_FROG_SHOT,追加蛙ショット (2way・炸裂大)
+EXTRA_SHIKIGAMI_VERTICAL,追加式神オプション(縦) (正面・設置)
+EXTRA_SHIKIGAMI_HORIZONTAL,追加式神オプション(横) (左右・設置)
+MISSILE_SUPPORT_TYPES,ミサイル援護攻撃 TypeS (正面・炸裂小)
+MISSILE_SUPPORT_TYPEW,ミサイル援護攻撃 TypeW (ワイド・炸裂小)
+EXTRA_GHOST_SHOT,追加幽霊ショット (正面・弱誘導・貫通)
+EXTRA_TEST_TUBE_VERTICAL,追加試験管ショット(縦) (上下)
+EXTRA_TEST_TUBE_HORIZONTAL,追加試験管ショット(横) (左右僅かに上)
+EXTRA_LEAF_SHOT,追加葉っぱショット (左右斜め上)
+EXTRA_TRACE_OPTION,追加トレースオプション (正面・自機後追い)
+EXTRA_NYOIBO_SHOT,追加如意棒ショット (正面・弱誘導)
+EXTRA_TRAP_SHOT,追加罠ショット (3way)
+EXTRA_SYRINGE_SHOT,追加注射器ショット (正面・炸裂小)
+EXTRA_SEARCH_SHOT,追加サーチショット (追跡撃ち込み)
+EXTRA_ONI_SHOT,追加鬼ショット (正面)

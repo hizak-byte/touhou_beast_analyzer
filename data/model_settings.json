@@ -1,0 +1,11 @@
+{
+  "major_ability_min_matches": 10,
+  "major_ability_top_n": 5,
+  "minimum_matches_for_estimation": 10,
+  "draw_score": 0.5,
+  "use_player_adjustment": true,
+  "use_character_adjustment": true,
+  "use_ability_adjustment": true,
+  "use_cost_adjustment": false,
+  "cost_lambda": 0.1
+}
