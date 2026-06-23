@@ -1,2 +1,6 @@
 # touhou_beast_analyzer
 獣王園対戦統計ツール
+
+起動方法
+touhou_beast_analyzer_v〇〇〇.zipをダウンロード
+解凍してtouhou_beast_analyzer_v〇〇〇.exeを実行
